@@ -12,6 +12,7 @@ package com.mycompany.ejerciciobasedatos;
  *
  * @author ianto
  */
+
 import java.sql.Connection;
 
 import java.sql.DriverManager;
